@@ -34,7 +34,7 @@
   "dependencies": {
     "autoprefixer-stylus": "0.14.0",
     "cheerio": "0.22.0",
-    "chokidar": "^2.0.4",
+    "chokidar": "^3.0.0",
     "handlebars": "4.0.12",
     "jstransformer-handlebars": "1.1.0",
     "junk": "2.1.0",
